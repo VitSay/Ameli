@@ -1,0 +1,9 @@
+.venv
+
+.idea
+
+# Ignore all folders with name "__pycache__"
+**/__pycache__/
+
+# Ignore all folders with name "build"
+**/build/
